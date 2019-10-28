@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    print("Celsius to Fahrenheit thermometer");
+    printf("Celsius to Fahrenheit thermometer");
     float  fahr,celsius;
     int lower,upper,step;
 
